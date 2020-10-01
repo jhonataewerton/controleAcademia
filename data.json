@@ -1,0 +1,46 @@
+{
+  "members": [
+    {
+      "avatar_url": "http://asdfasdf.com",
+      "name": "teste4",
+      "email": "asdf@asdf.m",
+      "birth": 1597104000000,
+      "gender": "M",
+      "blood": "A0",
+      "weight": "123",
+      "height": "123",
+      "id": 1
+    },
+    {
+      "avatar_url": "http://asdfasdf.com",
+      "name": "sss",
+      "email": "asdf@asdf.m",
+      "birth": 1599091200000,
+      "gender": "M",
+      "blood": "A1",
+      "weight": "333",
+      "height": "333",
+      "id": 3
+    }
+  ],
+  "instructors": [
+    {
+      "id": 3,
+      "avatar_url": "http://asdfasdf.com",
+      "name": "xxx",
+      "birth": 1597968000000,
+      "gender": "M",
+      "services": "xxxx, xxxs",
+      "created_at": 1598363345446
+    },
+    {
+      "id": 4,
+      "avatar_url": "http://asdfasdf.com",
+      "name": "TEST NOvO",
+      "birth": 716601600000,
+      "gender": "M",
+      "services": "asdfx",
+      "created_at": 1598539127590
+    }
+  ]
+}
